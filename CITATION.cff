@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Think to Speak
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Aparecida '
+    family-names: Oliveira
+    affiliation: Federal University of Viçosa
+    orcid: 'https://orcid.org/0000-0002-8888-6496'
+  - given-names: Rafael
+    family-names: Macario
+    orcid: 'https://orcid.org/0000-0002-6742-3206'
+    affiliation: University of São Paulo
+  - given-names: Luiz Max
+    family-names: Carvalho
+    email: lmax.fgv@gmail.com
+    affiliation: >-
+      School of Applied Mathematics, Getulio Vargas
+      Foundation
+    orcid: 'https://orcid.org/0000-0001-5736-5578'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15571413
+repository-code: 'https://github.com/maxbiostat/Think_to_Speak'
+abstract: >-
+  Data and code for a Bayesian analysis of linguistic data
+  on the expression of manner of motion in many languages,
+  in particular Brazilian Portuguese and English.
+keywords:
+  - linguistics
+  - Bayesian statistics
+  - hierarchical models
+license: GPL-3.0+
+commit: R1
+version: '1'
+date-released: '2025-06-01'
