@@ -12,10 +12,6 @@ authors:
     family-names: Oliveira
     affiliation: Federal University of Viçosa
     orcid: 'https://orcid.org/0000-0002-8888-6496'
-  - given-names: Rafael
-    family-names: Macario
-    orcid: 'https://orcid.org/0000-0002-6742-3206'
-    affiliation: University of São Paulo
   - given-names: Luiz Max
     family-names: Carvalho
     email: lmax.fgv@gmail.com
@@ -23,6 +19,11 @@ authors:
       School of Applied Mathematics, Getulio Vargas
       Foundation
     orcid: 'https://orcid.org/0000-0001-5736-5578'
+  - given-names: Rafael
+    family-names: Macario
+    orcid: 'https://orcid.org/0000-0002-6742-3206'
+    affiliation: University of São Paulo
+
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15571413
